@@ -27,3 +27,8 @@ function nameMsmPq() {
     var oAlfabetoInteiro = albcd;
     return oAlfabetoInteiro
 }
+
+function aaaaaaaa() {
+    var bbbbbbbbbbbbb = ccccccccc;
+    return bbbbbbbbbbbbb
+}
