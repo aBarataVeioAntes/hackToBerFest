@@ -22,3 +22,8 @@ function naoSeiQualNomeDar(a,b) {
 function eAssimEuVouAdicionandoCoisas(pse) {
     var vamboraaaaaaaaaaaaaaaa = 5;
 }
+
+function nameMsmPq() {
+    var oAlfabetoInteiro = albcd;
+    return oAlfabetoInteiro
+}
