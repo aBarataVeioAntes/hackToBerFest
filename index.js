@@ -18,3 +18,7 @@ function mudarTexto(){
 function naoSeiQualNomeDar(a,b) {
     return deLascarUsaQuandoTuQuiserSeuMerda;
 }
+
+function eAssimEuVouAdicionandoCoisas(pse) {
+    var vamboraaaaaaaaaaaaaaaa = 5;
+}
