@@ -14,3 +14,7 @@ function mudarTexto(){
         botao.value = "clique aqui :)";
     }
 }
+
+function naoSeiQualNomeDar(a,b) {
+    return deLascarUsaQuandoTuQuiserSeuMerda;
+}
